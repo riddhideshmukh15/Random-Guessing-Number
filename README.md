@@ -9,11 +9,11 @@ A simple beginner-friendly Python project that generates a random number within 
 
 ## 🛠️ Technologies
 - Python 3
-- `random` module
+- 'random' module
 
 ## ▶️ Run the Project
 
-```bash
+'''bash
 python random_number_generator.py
 
 👩‍💻 Author
